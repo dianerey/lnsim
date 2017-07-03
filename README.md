@@ -1,0 +1,2 @@
+# lnsim
+Lightning Network Simulator
